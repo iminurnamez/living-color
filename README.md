@@ -1,6 +1,6 @@
 #Living Color
 
-Evolutionary cellular automata based on Dave Ackley's artificial life simulation in this video: https://www.youtube.com/watch?time_continue=544&v=ws41PAG92xU
+Evolutionary cellular automata based on Dave Ackley's artificial life simulation in this video: https://www.youtube.com/watch?v=ws41PAG92xU
 
 Plants grow and try to reproduce, critters eat plants to survive and reproduce. The chance of a critter successfully eating a plant depends on the similarity of the
  critter's color to the plant's color. Plants and critters have a chance for their offspring to mutate.
