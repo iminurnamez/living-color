@@ -7,19 +7,19 @@ Plants grow and try to reproduce, critters eat plants to survive and reproduce. 
 
 #Sim Parameters
 
-*Plant Mutate Chance*  Chance that a plant's offspring will mutate (0 - 1)
+**Plant Mutate Chance**  Chance that a plant's offspring will mutate (0 - 1)
 
-*Plant Hue Mutate Range*  Amount that a plant offspring's hue can change from mutation (0 - 360) 
+**Plant Hue Mutate Range**  Amount that a plant offspring's hue can change from mutation (0 - 360) 
 
-*Plant Saturation Mutate Range*  Amount that a plant offspring's saturation can change from mutation (0 - 100)
+**Plant Saturation Mutate Range**  Amount that a plant offspring's saturation can change from mutation (0 - 100)
 
-*Critter Mutate Chance*  Chance that a critter's offspring will mutate (0 - 1)
+**Critter Mutate Chance**  Chance that a critter's offspring will mutate (0 - 1)
 
-*Critter Hue Mutate Range*  Amount that a critter offspring's hue can change from mutation (0 - 360)
+**Critter Hue Mutate Range**  Amount that a critter offspring's hue can change from mutation (0 - 360)
 
-*Critter Saturation Mutate Range*  Amount that a critter offspring's saturation can change from mutation (0 - 100)
+**Critter Saturation Mutate Range**  Amount that a critter offspring's saturation can change from mutation (0 - 100)
 
-*Critter Feeding Difficulty*  Higher value lowers chance of successful feeding
+**Critter Feeding Difficulty**  Higher value lowers chance of successful feeding
 
 These parameters can be adjusted on the setup screen
 
