@@ -137,12 +137,7 @@ class Entity(pg.sprite.DirtySprite):
         self.cell = cell
         self.name = species_name
         self.color = pg.Color(0,0,0)
-        try:
-            self.color.hsva = hsva
-        except OverflowError:
-            print "Overflow Error"
-            print "hsva: {}".format(hsva)
-            print "cell index: {}".format(cell.index)
+        self.color.hsva = hsva
         self.age = age
         self.energy = energy
         cell.occupant = self
